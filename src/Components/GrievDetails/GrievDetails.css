@@ -1,0 +1,65 @@
+.detailsContainer {
+    padding: 20px;
+  }
+  .detailsContainer h1{
+    color: white;
+  }
+  .outerForm {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 20px;
+  }
+
+  .details{
+    color: rgb(71, 169, 244);
+  }
+  
+  strong{
+    color: white;
+  }
+
+  .updateStatus, .feedbackSection {
+    margin: 15px 0;
+  }
+
+  .update-select{
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #1b1f61;
+    color: white;
+    margin-top: 10px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  textarea {
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    resize: vertical;
+  }
+  
+  .submitBtn {
+    background-color: #1b1f61;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .submitBtn:hover {
+    background-color: #1b1f61;
+  }
+  
+  .successMessage {
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
